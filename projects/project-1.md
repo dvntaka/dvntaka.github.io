@@ -19,9 +19,9 @@ summary: For the final group project in ICS111, we created an air hockey simulat
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Our Air Hockey project is a 2-player game played on one computer, where each player has control over an individual puck's direction in going up, left, down, or right with either the WASD or IJKL keys. Upon 
+Our Air Hockey project is a 2-player game constructed using Java and the library EZ Java. Played on one computer, where each player has control over an individual puck's direction in going up, left, down, or right with either the WASD or IJKL keys. Upon getting past the instruction screen, users will be greeted with a rectangular rink and a puck with a starting velocity. The game is won once a player "scores" 7 times by hitting the puck with their paddle into the opposing player's goal.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+In this project, I was in charge of the puck class, while my other team members were in charge of the paddle and goal post classes. My work involved keeping the puck moving and the behavior of the puck upon collision with other objects, including the wall, goal area, and paddles.
 
 Here is some code that illustrates how we read values from the line sensors:
 
