@@ -5,7 +5,7 @@ image: images/hacc18.png
 title: Humbalala ʻOpala
 permalink: projects/humbalalaopala
 # All dates must be YYYY-MM-DD format!
-date: 2018-12-1
+date: 2018-12-10
 labels:
   - HTML
   - Meteor
