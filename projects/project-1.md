@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/airHockey.png
 title: Air Hockey
-permalink: projects/micromouse
+permalink: projects/airHockey
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-04
 labels:
@@ -12,12 +12,6 @@ labels:
 summary: For the final group project in ICS111, I collaborated in the creation of an air hockey simulation.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
 
 Our Air Hockey project is a 2-player game constructed using Java and the library EZ Java. Played on one computer, where each player has control over an individual puck's direction in going up, left, down, or right with either the WASD or IJKL keys. Upon getting past the instruction screen, users will be greeted with a rectangular rink and a puck with a starting velocity. The game is won once a player "scores" 7 times by hitting the puck with their paddle into the opposing player's goal.
 
