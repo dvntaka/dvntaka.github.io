@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hacc18.png
+image: images/hacc.png
 title: Humbalala ʻOpala
 permalink: projects/humbalalaopala
 # All dates must be YYYY-MM-DD format!
