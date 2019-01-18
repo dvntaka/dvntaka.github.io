@@ -1,25 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/hacc18.png
+title: Humbalala ʻOpala
+permalink: projects/humbalalaopala
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-12-1
 labels:
-  - Javascript
+  - HTML
   - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Semantic UI
+summary: An attempt at a web-based application for assisting in the waste reduction efforts of the UH system. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+For the 2018 Hawaii Annual Code Challenge, I and another ICS student grouped together with two peers taking the Software Engineering 1 (ICS314) class to assist them in their submission for the HACC. Our goal was to tackle the challenge of finding a new and efficient way to track the process of waste audits initated by UH with the use of an application accessible to anyone.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Our vision for this project was incorporating a method for the input of data in terms of both pounds and gallons, for each category of waste, such as paper, plastic, glass, and more. This data would add up to a cumulative total from all campuses across the UH system, which could then be visualized through the use of pie charts, such that insights could be more easiliy garnered than through the use of spreadsheets alone. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Though our project wasnʻt fully realized, I had the experience of interacting with Meteor in running the application, HTML in editing the innards of the few web pages made, and Semantic UI for the extra functionality in the user interface. This was also another valuable opportunity for collaboration- each member of the team were responsible for their own piece of the product. I also had practice in the skill of asking for help, as I was not exposed at all to the tools and techniques taught in ICS314 prior to taking the class.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
