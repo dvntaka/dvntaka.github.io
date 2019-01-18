@@ -74,69 +74,45 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Tsukuneya",
+      "position": "Dishwasher/Cook",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-08-01",
+      "endDate": "2017-12-08",
+      "summary": "One of 4-5 cooks on shift for the restaurant",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Washed and set dishes, utensils, and other silverware",
+        "Operated my own orders for my station near the fryer",
+        "Worked under pressure in a high-paced, low-error environment"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Queen's Medical Center West",
+      "website": "https://www.queens.org/west-oahu/queens-medical-center-west-oahu",
+      "position": "Volunteer",
+      "startDate": "2017-08-05”,
+      "endDate": "2017-08-16",
+      "summary": "Assisted patients, nurses, and dining staff in low-risk, entry-level work.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Resupplied hospital rooms, prepared meal tickets for delivery",
+        "Assisted in patient discharges and minor requests"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Deanʻs List",
+      "date": "2017-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "In all my semesters at UHM thus far, I have earned a semester GPA of 3.5 or higher based on 12 credits or more of coursework."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "First place - Open High School“,
+      "date": "October 2016",
+      "awarder": "Hawaii Annual Code Challenge",
+      "summary": "My team won first place in the open high school division of HACC 2016 for Imi Ike. See my portfolio for more details.“
     }
   ],
   "references": [
