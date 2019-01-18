@@ -1,61 +1,21 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/imiike.png
+title: Imi Ike
+permalink: projects/imiike
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2016-09-20
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - HTML
+  - CSS
+  - Javascript
+summary: An online database for scholarships, internships, college applications, and community service opportunities for high school students in Hawaii.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+Me and 2 other classmates from high school, Zion Basque and Sage Foi, developed this project for the Open category of the 2016 Hawaii Annual Code Challenge- High School division. The motivation for this app was a simple one, even moreso as we were approaching the dreaded time of applying for college, "What do high school students need to succeed in their post-secondary education lives?" The four answers to that question became the basis for Imi Ike.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+In a process new to us high school students and under the pressure of under a month-long time frace ,all 3 of us experienced the period of introductions, and later collaboration, with government officials in the first hackathon held by the State of Hawaii. Though I did not take part in the majority of the technical aspects of the project, I was in charge of the crucial search for data throughout the web and the organization of it on spreadsheets. From here, we were able to embed certain sheets on our website, as well as incorporate existing databases of their own, such as Traven Wataseʻs Scholars App. 
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Though we did not continue with this project, and I was not involved much with the programming, this was my introduction into the world of software development.
 
