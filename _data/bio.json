@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "dvntaka",
+        "url": "http://linkedin.com/in/dvntaka"
       }
     ]
   },
@@ -49,32 +49,23 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MacOS"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
