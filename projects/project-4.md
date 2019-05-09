@@ -5,7 +5,7 @@ image: images/mam2.png
 title: Make A Meal 2.0
 permalink: projects/mam2
 # All dates must be YYYY-MM-DD format!
-date: 2019-04-5
+date: 2019-04-05
 labels:
   - Meteor
   - Semantic UI React
