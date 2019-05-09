@@ -49,7 +49,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java"
+        "Java",
         "Javascript"
       ]
     },
@@ -57,7 +57,7 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS"
+        "MacOS",
         "Github"
       ]
     }
